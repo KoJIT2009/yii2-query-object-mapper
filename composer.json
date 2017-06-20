@@ -1,0 +1,22 @@
+{
+    "name": "kojit2009/yii2-query-object-mapper",
+    "description": "Mapping query result in object for ActiveDataProvider",
+    "keywords": ["yii2", "yii2-extension"],
+    "type": "yii2-extension",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=7.0",
+        "yiisoft/yii2": ">=2.0.4"
+    },
+    "authors": [
+        {
+            "name": "Dolgikh Vladimir",
+            "email": "kojit2009@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"kojit2009\\mapper\\": "src"}
+    }
+}
