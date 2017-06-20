@@ -12,8 +12,7 @@
     "authors": [
         {
             "name": "Dolgikh Vladimir",
-            "email": "kojit2009@gmail.com",
-            "role": "Developer"
+            "email": "kojit2009@gmail.com"
         }
     ],
     "autoload": {
